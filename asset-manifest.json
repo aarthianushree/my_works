@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my_works/static/css/main.e5d2b83c.css",
+    "main.js": "/my_works/static/js/main.cd95a7c0.js",
+    "static/js/787.74dd9fee.chunk.js": "/my_works/static/js/787.74dd9fee.chunk.js",
+    "static/media/recentlyPlayed.png": "/my_works/static/media/recentlyPlayed.5ec8b450f294fb8849b6.png",
+    "static/media/DiscoverWeekly.png": "/my_works/static/media/DiscoverWeekly.ee5b86c7584a4f05c2d1.png",
+    "static/media/Photo by Ricardo Resende on Unsplash.jpg": "/my_works/static/media/Photo by Ricardo Resende on Unsplash.9c2975b8046fd2474146.jpg",
+    "static/media/Google Images.png": "/my_works/static/media/Google Images.ecc915399f5ef2d2dfb3.png",
+    "static/media/simpleLogin.png": "/my_works/static/media/simpleLogin.9c6124e8e78967507f9f.png",
+    "static/media/userloginPage.png": "/my_works/static/media/userloginPage.c7f5de82bced973a5999.png",
+    "static/media/React_js for Beginners — Props and State Explained.png": "/my_works/static/media/React_js for Beginners — Props and State Explained.e3b13238ab7981b7c628.png",
+    "static/media/userAuthentication.png": "/my_works/static/media/userAuthentication.f504e8210bfb71a10fe1.png",
+    "static/media/SIH.png": "/my_works/static/media/SIH.4c9f31e582ea197c4205.png",
+    "static/media/download icon css 3 svg eps png psd ai logo vector color free.png": "/my_works/static/media/download icon css 3 svg eps png psd ai logo vector color free.60c923e2618c881c9f2d.png",
+    "static/media/degree.jpg": "/my_works/static/media/degree.2b50a35c8b48bfc20a0d.jpg",
+    "static/media/Javascript Logo Sticker by marcoafsousa.jpg": "/my_works/static/media/Javascript Logo Sticker by marcoafsousa.a6223dd31b5aa45b624d.jpg",
+    "index.html": "/my_works/index.html",
+    "main.e5d2b83c.css.map": "/my_works/static/css/main.e5d2b83c.css.map",
+    "main.cd95a7c0.js.map": "/my_works/static/js/main.cd95a7c0.js.map",
+    "787.74dd9fee.chunk.js.map": "/my_works/static/js/787.74dd9fee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5d2b83c.css",
+    "static/js/main.cd95a7c0.js"
+  ]
+}
