@@ -1,0 +1,105 @@
+.todo{
+    color: aliceblue;
+}
+
+.todobox{
+    margin-top: 10px;
+    height: 90vh;
+    width: 100%;
+    float: left;
+    margin-top: 30px;
+    display: flex;
+}
+
+.todobox1{
+    height: 85vh;
+    width: 30%;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.todobox2{
+    height: 85vh;
+    width: 70%;
+    background: rgba(109, 89, 74, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(12, 12, 15, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 2.5px );
+    border-radius: 10px;
+    color: white;
+    overflow: hidden; 
+}
+
+.todotitle{
+    height: 5vh;
+    width: 80%;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 20px;
+    text-align: center;
+    background-color: #c26023;
+    box-shadow: 0 0 10px 0 grey;
+}
+
+.todotitle:hover{
+    box-shadow: 0 8px 32px 0 rgba(12, 12, 15, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 2.5px );
+    box-shadow: 0 0 10px 0 ;
+    background-color: black;
+}
+
+.todocontent{
+    height: 70vh;
+    width: 80%;
+    background: rgba(109, 89, 74, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(12, 12, 15, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 2.5px );
+    border-radius: 10px;
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.forms input {
+    margin: 40px 0 0 5px;
+    padding: 5px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 5%;
+    width: 80%;
+    font-family: "Architects Daughter";
+    font-size: 20px;
+  }
+  
+  .forms button {
+    padding: 10px;
+    background-color: #c26023;
+    border-color: transparent;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 0 5px 0 ;
+  }
+
+  .forms button:hover{
+    background-color: black;
+  }
+
+  
+  .forms li {
+    text-align: left;
+    padding: 0.5rem;
+    font-family: "Architects Daughter";
+    font-size: 20px;
+    color: #c26023;
+  }
+
+  .forms li:hover{
+    cursor: pointer;
+  }

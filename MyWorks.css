@@ -1,0 +1,110 @@
+.myworks{
+    height: 100vh;
+    width: 100%;
+    color: aliceblue;
+    background-image: url('./pics/Photo\ by\ Ricardo\ Resende\ on\ Unsplash.jpg');
+}
+
+.workbox{
+    height: 90vh;
+    width: 90%;
+    margin: 20px;
+    margin-left: 3%;
+    overflow-y: scroll;
+    gap: 10px;
+    box-shadow: 0 0 10px 0 grey; 
+    border-radius: 10px;
+    color:white;
+}
+
+.workbox1{
+    height: 90vh;
+    width: 94%;
+    padding: 10px;
+    margin: 15px;
+}
+
+.timebox{
+    height: 10vh;
+    width: 20%;
+    background: rgba(109, 89, 74, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(12, 12, 15, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 2.5px );
+    float: left;
+    margin-top: 40px;
+    margin-left: 25%;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    background-color: #c26023;
+    color: white;
+}
+
+.timebox:hover{
+    color: #c26023;
+    background-color: black;
+    cursor: pointer;
+}
+
+
+.accordionbox1{
+    height: 45vh;
+    width: 55%;
+    background: rgba(109, 89, 74, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(12, 12, 15, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 2.5px );
+    float: left;
+    margin-top: 40px;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+
+
+
+.accordionbox1 button{
+    width: 99%;
+    height: 10vh;
+    border: none;
+   border-radius: 10px;
+   background-color: transparent;
+   color: #c26023;
+}
+
+.accordionbox1 button:hover{
+   background-color: #c26023;
+   cursor: pointer;
+   color: white;
+}
+
+.accordionbox1 .content{
+    padding: 10px;
+  max-height: 0px;
+  overflow: hidden;
+}
+
+.accordionbox2{
+    height: 0vh;
+    width: 25%;
+    background: rgba(109, 89, 74, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(12, 12, 15, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 2.5px );
+    float: left;
+    margin-top: 40px;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+
+.accordionbox2 button{
+    width: 99%;
+    height: 8vh;
+}
+
+.accordionbox2 .content{
+  max-height: 0px;
+  overflow: hidden;
+
+}
+

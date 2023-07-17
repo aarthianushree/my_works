@@ -1,0 +1,77 @@
+.keeper{
+    height: 25vh;
+    width:90%;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+
+.keeper form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.keeper input{
+    width: 87%;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: transparent;
+    box-shadow: 0 0 10px 0 grey;
+    padding: 10px;
+    color: white;
+} 
+
+.keeper textarea{
+    height: 10vh;
+    width: 90%;
+    border-radius: 10px;
+    border: none;
+    background-color: transparent;
+    box-shadow: 0 0 10px 0 grey;
+    padding: 10px;
+    color: white;
+}
+
+.keeper button{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    margin-left: 90%;
+    background-color: #c26023;
+    border: none;
+    color: white;
+    box-shadow: 0 0 10px 0 grey;
+}
+
+.keeper button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 10px 0 ;
+    background-color: black;
+}
+
+.displayingGrid{  
+   display: grid;
+   grid-template-columns: auto auto auto;
+}
+
+.Notes{
+    margin-top: 15px;
+    height: auto;
+    width: 70%;
+    padding: 10px;
+    background-color: #c26023;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.Notes .ico{
+    float: right;
+}
+
+.Notes .ico:hover{
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 0 black;
+}

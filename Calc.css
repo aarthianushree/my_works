@@ -1,0 +1,128 @@
+.calc{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-image: url('./pics/Photo\ by\ Ricardo\ Resende\ on\ Unsplash.jpg');
+    margin-left: 0px;
+    color: white;
+}
+
+
+.projectHeading{
+    margin-top: 0px;
+    display: flex;
+    background: rgba(109, 89, 74, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(12, 12, 15, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 2.5px );
+}
+
+/* .generalinfo{
+    height: auto;
+    width: 92%;
+    border: 1px solid rgb(235, 42, 42);
+    margin-left: 25px;
+    margin-bottom: 0px;
+    padding: 0px;
+    overflow-y: scroll;
+    
+} */
+.calc .reactlogo{
+    height: 60px;
+    width:130px;
+}
+
+.projectboxes{
+    display: block;
+}
+
+.projectbox1{
+    height: auto;
+    margin-top: 0px;
+    margin-left: 25px;
+    border-radius: 10px;
+    padding: 0px;
+    color: white;
+    
+}
+
+
+
+.box1Internal{
+    margin-top: 0px;
+    margin-left: 5px;
+    height: auto;
+    width: auto;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background: rgba(109, 89, 74, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(12, 12, 15, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 2.5px );
+   
+}
+
+
+.box2Internal{
+    margin-top: 20px;
+    margin-left: 5px;
+    height: 35vh;
+    width: auto;
+    box-shadow: none;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    background: rgba(109, 89, 74, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(12, 12, 15, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 2.5px );
+}
+
+.projectbox
+{
+    display: flex;
+}
+
+.projectContent{
+    margin-top: 0px;
+    margin-left: 20px;
+    height: 80vh;
+    width: 65%;
+    overflow-y: scroll;
+    background-size: contain;
+    scroll-behavior: smooth;
+}
+
+.box2Internal .imageDimensions{
+    height:180px;
+    width: 400px;
+    box-shadow: 0 0 5px 0;
+    border-radius: 10px;
+    
+}
+
+.projectContentInternal{
+    margin-top: 10px;
+    margin-left: 5px;
+    height: auto;
+    width: 96%;
+    padding: 20px;
+    background: rgba(109, 89, 74, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(12, 12, 15, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 2.5px );
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.projectContentInternal .imageDimensions{
+    height:50%;
+    width: 90%;
+    box-shadow: 0 0 10px 0;
+    margin-left: 45px;
+    border-radius: 10px;
+}
